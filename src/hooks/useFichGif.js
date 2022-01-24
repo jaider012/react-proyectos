@@ -17,7 +17,7 @@ export const useFichGif = (category) => {
                     data: imgs,
                     loading: false,
                 },
-                3000
+                
                 );
 
             });
