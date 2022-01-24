@@ -12,7 +12,7 @@ export const GifExperAPP = () => {
   //   };
   return (
     <>
-      <h2  className="text-3xl font-bold "> GifExperAPP</h2>
+      <h2  className="text-4xl font-bold text-center"> GifExperAPP</h2>
       <AddCategory setcategoria = {setcategoria} />
       <hr />
 

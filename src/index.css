@@ -18,6 +18,7 @@ code {
 }
 
 input{
+  margin:25px;
   font-size: 1.2rem;
   width: 100%;
   font-family:Georgia, 'Times New Roman', Times, serif;
@@ -46,4 +47,3 @@ align-items: center;
   text-align: center;
 }
 
-animate__fadeOut

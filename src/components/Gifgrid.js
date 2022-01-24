@@ -8,7 +8,7 @@ export const Gifgrid = ({ category }) => {
 
   return (
     <>
-      <h1 className="text-3xl font-bold underline">{category}</h1>
+      <h1 className="text-3xl font-bold text-center">{category}</h1>
 
       {loading && "cargandoo..." }
       <div className="card-grid flex flex-row">
